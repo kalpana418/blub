@@ -1,0 +1,19 @@
+h1{
+    text-align: center;
+    
+}
+#onblub{
+    position: absolute;
+    margin-top: 250px;
+    margin-left: 570px;
+}
+#offblub{
+    position: absolute;
+    margin-top: 250px;
+    margin-left: 670px;
+}
+#hereplace{
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 580px;
+}
